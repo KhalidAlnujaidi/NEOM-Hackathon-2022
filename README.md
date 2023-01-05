@@ -1,4 +1,4 @@
-# BlindLine Project one of the winning projects at NEOMs Hackathon of 2022
+# BlindLine Project - Winning project at NEOMs Hackathon of 2022
 
 
 
