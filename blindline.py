@@ -35,7 +35,7 @@ def button_callback(channel):
     # saves image - not neccosarry just for reference 
     THE_IMAGE = cv2.imwrite(filename, frame)
     
-    # load model
+    # load model -------> needs optimizing - the model and paths should loaded at start of scrict not here
     global interpreter
     interpreter = Interpreter(model_path)
     print("Model Loaded Successfully.")
